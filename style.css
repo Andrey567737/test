@@ -1,0 +1,18 @@
+button {
+    background: red;
+    border: 0;
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+h6 {
+    color: green;
+}
+h1{
+    color: red;
+}
+img{
+border-radius: 20px;
+width: 300px;
+}
